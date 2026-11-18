@@ -23,7 +23,7 @@ FitPulse/
 **Architecture Overview**
 
 
-1\. Relational Core (MySQL)
+1. Relational Core (MySQL)
 
 * Design: Normalized to 3NF to ensure data integrity across members, memberships, class schedules, and facility rooms.
 
@@ -37,7 +37,7 @@ FitPulse/
 
 
 
-2\. Document Core (MongoDB)
+2. Document Core (MongoDB)
 
 * Design: Document-oriented schema designed to capture unstructured, high-frequency biometric streams (heart rate time-series, step counts, and GPS logs).
 
@@ -74,9 +74,9 @@ Getting Started
 
 
 
-2\. Open the Jupyter Notebooks located in the nosql/ directory.
+2. Open the Jupyter Notebooks located in the nosql/ directory.
 
 
 
-3\. Run the data generation and loading cells to populate the local document collections, then execute the aggregation scripts to test the time-series pipelines.
+3. Run the data generation and loading cells to populate the local document collections, then execute the aggregation scripts to test the time-series pipelines.
 
