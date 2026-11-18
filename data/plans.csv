@@ -1,0 +1,5 @@
+plan_id,plan_name,duration_months,price
+1,Monthly,1,1499.0
+2,Quarterly,3,3999.0
+3,Half-Yearly,6,6999.0
+4,Annual,12,11999.0

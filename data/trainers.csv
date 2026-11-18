@@ -1,0 +1,13 @@
+trainer_id,full_name,email,phone,specialization,hire_date
+1,Aryan Maharaj,trainer1@fitpulse.example,+913218196001,Yoga & Mindfulness,2019-11-11
+2,Yashasvi Bala,trainer2@fitpulse.example,3863794026,Yoga & Mindfulness,2020-11-23
+3,Nachiket Kale,trainer3@fitpulse.example,01161559407,Yoga & Mindfulness,2022-07-25
+4,Kritika Brar,trainer4@fitpulse.example,4959310341,Cardio,2019-12-25
+5,Lajita Mall,trainer5@fitpulse.example,05255341928,Cardio,2024-03-15
+6,Nihal Shere,trainer6@fitpulse.example,04835030564,Cardio,2018-07-25
+7,Divya Kala,trainer7@fitpulse.example,7672423884,Cardio,2024-05-09
+8,Mohini Pathak,trainer8@fitpulse.example,+912871012269,Strength & Conditioning,2018-07-17
+9,Lakshmi Sidhu,trainer9@fitpulse.example,4801845146,Strength & Conditioning,2019-05-07
+10,Aarush Lall,trainer10@fitpulse.example,2814893252,Strength & Conditioning,2022-08-03
+11,Ekiya Suresh,trainer11@fitpulse.example,+911543039117,Combat Sports,2018-08-04
+12,Kabir Soman,trainer12@fitpulse.example,2489638346,Combat Sports,2023-09-18
